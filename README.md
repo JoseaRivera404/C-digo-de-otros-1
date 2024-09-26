@@ -1,1 +1,1 @@
-# C-digo-de-otros-1
+# Actividad donde revisaremos codigo de otro para poder realizr correciones 
